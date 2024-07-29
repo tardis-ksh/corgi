@@ -10,7 +10,7 @@ importers:
     dependencies:
       '@umijs/utils':
         specifier: ^4.2.11
-        version: 4.3.6
+        version: 4.3.10
     devDependencies:
       '@commitlint/cli':
         specifier: ^19.3.0
@@ -520,8 +520,8 @@ packages:
     resolution: {integrity: sha512-Qlzzx4sE4u3FsHTPQAAQFJFNOuqtuY0LFrZHwQ8IHK705XxBiWOFkfKRWu6niB7hwfgnwIpO4jTC75ozW1PHWg==}
     engines: {node: ^18.18.0 || >=20.0.0}
 
-  '@umijs/utils@4.3.6':
-    resolution: {integrity: sha512-CsxIQHc0/22Rihzzl6XQP1ToM4zcRi1ExzB59yKM9q4LGKrc7DSXIxkHpQcX1IYmtphqAtIwfrGgKrGrL7QIZA==}
+  '@umijs/utils@4.3.10':
+    resolution: {integrity: sha512-gby6L7gXdOm8otetPCiIUX2vq0erAmfi14I6SHcstKDtd8Ndd33lRGVMMV8djODEBFF9r525Hsp92hopyaWH0Q==}
 
   JSONStream@1.3.5:
     resolution: {integrity: sha512-E+iruNOY8VV9s4JEbe1aNEm6MiszPRr/UfcHMz0TQh1BXSxHK+ASV1R6W4HpjBhSeS+54PIsAMCBmwD06LLsqQ==}
@@ -2146,7 +2146,7 @@ snapshots:
       '@typescript-eslint/types': 7.16.1
       eslint-visitor-keys: 3.4.3
 
-  '@umijs/utils@4.3.6':
+  '@umijs/utils@4.3.10':
     dependencies:
       chokidar: 3.5.3
       pino: 7.11.0
